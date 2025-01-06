@@ -13,9 +13,7 @@
 <p>
 I’m a backend developer who enjoys building reliable and efficient systems that make a real impact. I have experience with Node.js, Express.js, Spring Boot, and Java to create scalable APIs, optimize data handling with MongoDB, and design microservice architectures. I’m also skilled in containerization using Docker and Kubernetes, ensuring smooth and resilient deployments.
 
-At the core, I’m passionate about creating backend architectures that solve real problems and deliver great user experiences. I’m always looking to grow, collaborate, and contribute to projects that challenge and inspire me.
-
-I'm excited to contribute to the industry and make a positive impact. Feel free to explore my projects and reach out if you'd like to connect or collaborate!
+At the core, I’m passionate about creating backend architectures that solve real problems and deliver great user experiences. I’m always looking to grow, collaborate, and contribute to projects that challenge and inspire me. Feel free to explore my projects and reach out if you'd like to connect or collaborate!
 
 </div>
 
